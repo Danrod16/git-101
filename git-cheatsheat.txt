@@ -1,0 +1,5 @@
+git init
+gh repo create
+git status
+git diff
+git add . || git add <name of the file>
